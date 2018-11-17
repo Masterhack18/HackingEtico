@@ -254,7 +254,7 @@
 		      error: function() {
 
 		      	sLoader.fadeOut(); 
-		      	$('#message-warning').html("Something went wrong. Please try again.");
+		      	$('#message-warning').html("DISCULPE, POR AHORA NO PUEDO VINCULARLO CON EL CORREO. GRACIAS POR SU COMPRENSIÓN");
 		         $('#message-warning').fadeIn();
 
 		      }
